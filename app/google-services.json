@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315141655226",
+    "project_id": "composeauth-72ac5",
+    "storage_bucket": "composeauth-72ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315141655226:android:10fde17e8ce2b16873d083",
+        "android_client_info": {
+          "package_name": "com.mufiid.composegoogleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315141655226-sv6cde97i82e22ebe85tm6suvvv23ogj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbklPjfgea9Ez7buL4p_FEUd_uoGvzvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315141655226-sv6cde97i82e22ebe85tm6suvvv23ogj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
