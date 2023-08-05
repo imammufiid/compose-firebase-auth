@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposeGoogleAuth</string>
+    <string name="default_web_client_id">315141655226-l1a54nggr3ct5oab566vsl4jhq25ef5l.apps.googleusercontent.com</string>
 </resources>
